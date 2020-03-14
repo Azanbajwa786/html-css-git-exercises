@@ -4,3 +4,16 @@
   border-radius: 4px;
   background: #fff;
 }
+
+.site-header {
+  border: 1px solid red;
+  width: 93%;
+}
+
+.ul,
+li {
+  padding: 4em;
+  width: 98%;
+  height: 20%;
+  margin: 20%;
+}

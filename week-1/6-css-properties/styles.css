@@ -1,1 +1,18 @@
 /* Add your CSS code below */
+.linklink--map {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.messagemessage--unread,
+message__author {
+  border: 3px solid blue;
+}
+.message1,
+message__author {
+  opacity: 0.5;
+  text-align: center;
+  line-height: normal;
+}
